@@ -1,9 +1,3 @@
-<%-- 
-    Document   : form
-    Created on : Mar 5, 2023, 10:39:12 AM
-    Author     : PC
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
